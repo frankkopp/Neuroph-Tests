@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/fkopp/eclipse-workspace/neuroph-2.94/libs/logback-classic-1.0.13.jar"/>
+	<classpathentry kind="lib" path="/Users/fkopp/eclipse-workspace/neuroph-2.94/libs/logback-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/fkopp/eclipse-workspace/neuroph-2.94/libs/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="/Users/fkopp/eclipse-workspace/neuroph-2.94/neuroph-core-2.94.jar" sourcepath="/Users/fkopp/eclipse-workspace/neuroph-2.94/neuroph-core-2.94-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/Users/fkopp/eclipse-workspace/neuroph-2.94/neuroph-core-2.94-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
